@@ -2,7 +2,7 @@
 
 With this simple program I wanted to play around with .gitignore files along with a simple program displaying "Hello, World." It works!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=xlwSedVru0I)
 
 # Development Environment
 
